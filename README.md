@@ -6,7 +6,7 @@ AWS three-tier architecture setup using Terraform code.
 
 **Provider.tf** : To setup AWS provider in terraform code
 
-**Main.tf** : Complete terraform code to deploy VPC, Internet gateway, Appication Load balancer, Public subnets, Private subnets EC2 instances, Security groups, RDS database.
+**Main.tf** : Complete terraform code to deploy VPC, Internet gateway, Appication Load balancer, Public subnets, Private subnets EC2 instances, Security groups, RDS database
 
 **Variables.tf** : To store variables used in main.tf code
 
