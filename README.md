@@ -24,3 +24,9 @@ AWS three-tier architecture setup using Terraform code.
 **script_result.jpg** : Output for script.py on local EC2 instance
 
 **pyscr.jpg** : Output for pyscr.py providing key value and return data based on key value
+
+# Challenge 3
+
+**python_dict_func.py** : Python script to traverse through nested object
+
+**python_dict_func.jpg** : Output of python_dict_func.py script for sample values
