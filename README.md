@@ -19,7 +19,7 @@ AWS three-tier architecture setup using Terraform code.
 
 **script.py** : Python script to traverse through Instance metadata and print the same in JSON format
 
-**pyscr.py ** : Python script to retrieve output based on key value provided
+**pyscr.py** : Python script to retrieve output based on key value provided
 
 **script_result.jpg** : Output for script.py on local EC2 instance
 
